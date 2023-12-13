@@ -9,6 +9,6 @@
       </clipPath>
     </defs>
     
-    <image href="https://alexwlchan.net/images/2021/globe.jpg" clip-path="url(#insideCircleOnly)" width="600" height="600" x="0" y="0"/>	
+    <image href="globe.jpg" clip-path="url(#insideCircleOnly)" width="600" height="600" x="0" y="0"/>	
     <use xlink:href="#gCircle" fill="none" clip-path="url(#insideCircleOnly)" stroke="green"/>
 </svg>
